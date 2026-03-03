@@ -53,7 +53,8 @@ Summarise findings on:
 - Concurrency scalability behaviour
 - Runtime consistency and error margins
 Highlight that both platforms produced accurate π approximations (~3.14159) with competitive performance, while demonstrating expected increases in execution time under higher concurrent loads.
-![Alt text](insert_openfaas_screenshot_link_here)
+![Alt text](https://github.com/Sandraag/cwk2_monte_carlo_serverless/blob/main/graph%20results.pdf).
+
 ## Technologies Used:
 - Python 3.11
 - Microsoft Azure Functions
@@ -62,4 +63,5 @@ Highlight that both platforms produced accurate π approximations (~3.14159) wit
 - Azure Virtual Machine (Ubuntu)
 - HTML, CSS, JavaScript
 - concurrent.futures (ThreadPoolExecutor)
+
 
